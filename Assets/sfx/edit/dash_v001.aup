@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="dash_v001_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="1.8062913725" vpos="0" h="0.0000000000" zoom="461.7195280200" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Encoded by" value="Sound Grinder 4.0.3"/>
+		<tag name="Copyright message" value="Copyright Alan McKinney"/>
+	</tags>
+	<wavetrack name="science_fiction_laser_002" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="0.079433" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="77916">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808055.au" len="77916" min="-0.90279" max="0.921491" rms="0.120104"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.000000000000" val="0.197183072567"/>
+				<controlpoint t="0.059315179739" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="science_fiction_laser_002" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="0.079433" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="77916">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cdd.au" len="77916" min="-0.866036" max="0.902664" rms="0.122876"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="2">
+				<controlpoint t="0.000000000000" val="0.197183072567"/>
+				<controlpoint t="0.059315179739" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="zapsplat_foley_heavy_item_place_down_underwater_pov_001_55874" isSelected="0" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="-0.14510417" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="132548">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808b1e.au" len="132548" min="-0.578322" max="0.706969" rms="0.09111"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
