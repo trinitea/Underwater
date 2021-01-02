@@ -1,0 +1,46 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="player_swim_v001_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="284.8811126066" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Encoded by" value="Sound Grinder 4.0"/>
+		<tag name="ARTIST" value="SilverPlatterAudio"/>
+		<tag name="Band" value="SilverPlatterAudio_Sampler2019"/>
+		<tag name="Original album" value="http://silverplatteraudio.com"/>
+		<tag name="GENRE" value="Free Sampler"/>
+		<tag name="Original release time" value="2017"/>
+		<tag name="Subtitle" value="Copyright SilverPlatterAudio - All Rights Reserved C 2018"/>
+		<tag name="TRACKNUMBER" value="0"/>
+		<tag name="COMMENTS" value="Underwater Bubbles and Movement - Deep Movement 01"/>
+		<tag name="File owner" value="SilverPlatterAudio_Sampler2019"/>
+		<tag name="YEAR" value="2017"/>
+		<tag name="Software" value="Soundminer"/>
+	</tags>
+	<wavetrack name="spa_underwater_bubbles_and_movement_deep_movement_01" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="-0.21762500" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="213984">
+				<waveblock start="0">
+					<simpleblockfile filename="e08086e6.au" len="213984" min="-0.253914" max="0.226585" rms="0.031242"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="1.168908661417" val="0.992957770824"/>
+				<controlpoint t="1.695444094488" val="0.352112650871"/>
+				<controlpoint t="2.509818897638" val="0.084507048130"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="spa_underwater_bubbles_and_movement_deep_movement_01" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="-0.21762500" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="213984">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808af6.au" len="213984" min="-0.237255" max="0.232733" rms="0.031404"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="3">
+				<controlpoint t="1.168908661417" val="0.992957770824"/>
+				<controlpoint t="1.695444094488" val="0.352112650871"/>
+				<controlpoint t="2.509818897638" val="0.084507048130"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
